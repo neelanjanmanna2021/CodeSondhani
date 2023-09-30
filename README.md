@@ -46,3 +46,8 @@ paste the code you want to secure in the script named codetosecure.py must be le
 
 **Conclusion:**
 কোডসনধানী (Kod Shondhani) empowers Python developers, particularly in the Bengali community, to protect their code and intellectual property with an efficient and easy-to-use obfuscation tool. This project is a testament to the talent and innovation emerging from the vibrant programming community in India, particularly among Bengali developers.
+
+
+আমি গর্বিত আমি বাঙালি
+
+JAI HIND
