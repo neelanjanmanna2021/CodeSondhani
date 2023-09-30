@@ -9,4 +9,6 @@ python 3.11.5 64 bit tested thoroughly
 
 number of iterations maximum tested is 1500
 
+you can go higher
+
 took 3 hrs to complete on i5 11th gen 16 gb ddr4 ram
